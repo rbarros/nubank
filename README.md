@@ -253,3 +253,14 @@ Distribuído sob a licença MIT. Veja `LICENSE` para mais informações.
 ## Contato
 
 Rocketseat - [Github](https://github.com/rocketseat) - **oi@rocketseat.com.br**
+
+$ react-native run-android
+$ react-native start --reset-cache
+
+$ yarn add react-native-vector-icons
+$ react-native link react-native-vector-icons
+
+$ yarn add react-native-iphone-x-helper
+$ react-native link react-native-iphone-x-helper
+
+$ yarn add react-native-qrcode
